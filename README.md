@@ -1,24 +1,59 @@
 ## Hi friends! I'm Bridgette 👋  
-A backend engineer who cares about clean code, helpful tools, and making everyday life a little less messy (for people and dogs). 🐶
-
-I’m based in NYC and currently working at a large financial institution, where I build backend services and APIs that support small business workflows at scale.  
-I love building tools that make things feel simple on the other side — whether that means a smoother deployment or helping someone plan the layout for a tight space.
+💡 Software Engineer | 🧠 Technical Program Manager | ⚙️ Systems Thinker  
+Bridging backend engineering, product strategy, and AI-driven velocity—one thoughtful system at a time.
 
 ---
 
-### 🧰 Tools I enjoy working with  
-- Java, Spring Boot, SQL  
-- CI/CD: Jenkins, Jules, GitHub Actions  
-- Observability: Splunk, Postman, Dynatrace  
-- Clean architecture & product-minded thinking
+### 🔨 What I Build  
+I design backend systems that don’t just work—they evolve.  
+Currently at JPMorgan Chase, I lead initiatives that support millions of users, modernize legacy infrastructure, and tightly align with both business needs and user trust.
+
+- 🔐 **Access control microservices** for business banking clients  
+- 🚀 **CI/CD systems** enhanced with ML to reduce deploy times and predict failures  
+- ✨ **Auto-generated test suites** and use case detection powered by NLP  
+- 📊 **Metrics-driven rollout frameworks** to catch regressions before they reach production  
 
 ---
 
-### 🔨 Projects I’m working on (or should be)  
-- **PetSpace Planner** – Java-based backend logic to help people arrange furniture (and dog beds) in small apartments  
-- **MealMatch API** – A playful REST API that returns ideal dog meals based on breed, age, and weight  
-- **CI/CD Demo** – A basic pipeline setup showing how I automate testing and deployment
+### 🪄 My Superpowers  
+- 💻 **Engineering Depth**: Java, Spring Boot, AWS, microservices, observability  
+- 📈 **Product Thinking**: Turn ambiguous goals into roadmaps, KPIs, and working features  
+- 🤖 **AI/ML in Practice**: Accelerate testing, deployment, and QA with machine learning  
+- 🤝 **Cross-Functional Glue**: Speak engineering, translate for product, connect across teams
 
 ---
 
-### 🐾 Why I build things
+### 🧰 Sample Work (Abstracted)
+
+I’m currently a backend engineer on the **Chase for Business** team at JPMorgan Chase, designing infrastructure that supports millions of small business customers. While the work is proprietary, here’s a peek at the kinds of systems I lead:
+
+- 🔐 Built and modernized access management services for complex entitlements  
+- 🚀 Used ML to optimize CI/CD pipelines, speeding up releases and reducing test flakiness  
+- 🧪 Applied AI to auto-generate test cases and identify usage gaps for better QA  
+- 📊 Created tools to monitor latency and ensure safe, smooth production rollouts  
+- ☁️ Led a legacy cloud migration to AWS, improving scalability and cutting infrastructure costs  
+- 🤝 Partnered daily with product, legal, and compliance to ship secure, customer-focused features
+
+---
+
+### 🧠 My Philosophy
+
+Great systems aren’t just robust—they’re **understood**, **measured**, and **built for people**. I use AI and data not to over-engineer, but to reduce noise, cut friction, and help teams build with confidence and clarity.
+
+---
+
+### 🖼️ Outside of Code
+
+- 🪑 Interiors enthusiast + furniture rehabber  
+- 🐾 Proud dog mom to Tilly  
+- 🔊 Debugs better with 2000s pop and cold brew  
+- 🏔 Planning a Colorado wedding with too many Google Sheets (and not enough daylight)
+
+---
+
+### 📬 Let’s Connect
+
+[🔗 LinkedIn](https://linkedin.com/in/bridgette-bergman) | [📧 Email](mailto:bridgette.bergman360@gmail.com)
+
+> “Elegance in code is when the logic is so clear, it needs no explanation.”  
+I aim for that in systems, docs, and how teams work together.
