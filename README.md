@@ -19,7 +19,7 @@ OpenAI API, Anthropic API, Prompt Engineering
 CI/CD, Distributed Systems, Debugging (Splunk, logs)
 
 ## 📌 Featured Projects
-👉 (Pin your best repos below)
+👉 https://github.com/babergma/mealmatch-api
 
 ## 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/bridgette-bergman
