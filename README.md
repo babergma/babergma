@@ -1,6 +1,6 @@
 # Hi, I'm Bridgette 👋
 
-Backend Software Engineer with 4 years of experience building scalable systems at JPMorgan Chase.
+Product-focused Backend Software Engineer with 5 years of experience building scalable systems at JPMorgan Chase.
 
 ## 🔧 What I Do
 - Build REST APIs and microservices using Java + Spring Boot
